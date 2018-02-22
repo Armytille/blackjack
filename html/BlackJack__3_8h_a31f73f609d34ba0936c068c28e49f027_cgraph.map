@@ -1,0 +1,9 @@
+<map id="jeu" name="jeu">
+<area shape="rect" id="node2" href="$BlackJack__3_8c.html#aba89e787b6e64f5db79c7b3b47b60ea2" title="Affiche la main du Joueur player. " alt="" coords="115,5,208,32"/>
+<area shape="rect" id="node3" href="$BlackJack__3_8c.html#a406e2323e6ebec41fa2afcaa2ae273b1" title="Calcule la somme des cartes du Joueur player. " alt="" coords="279,31,408,57"/>
+<area shape="rect" id="node4" href="$BlackJack__3_8c.html#adb8fea1c70e6bcae3b3edede16e6cf84" title="Retourne une valeur correspondant au &quot;status&quot; du Joueur player. " alt="" coords="123,107,200,133"/>
+<area shape="rect" id="node5" href="$BlackJack__3_8c.html#af873f8015110bca3b6b2b2c22fba4392" title="Réinitialise la main du Joueur player et lui ajoute nb_Carte Carte. " alt="" coords="124,157,199,184"/>
+<area shape="rect" id="node6" href="$BlackJack__3_8c.html#a0328cc6f6734c64606c2dcc176036c9e" title="Ajoute un nombre de Carte nb_Carte à la main du Joueur player. " alt="" coords="136,208,187,235"/>
+<area shape="rect" id="node7" href="$BlackJack__3_8c.html#acf19ed2315f42a67310a19c1b00ccfb6" title="Cette fonction remplie le tableau Paquet avec 6 paquets de 52 cartes soit un total de 312 Cartes..." alt="" coords="92,259,231,285"/>
+<area shape="rect" id="node8" href="$BlackJack__3_8c.html#ac4fcddb59f949775ec2e3bfba5c1b257" title="Change le stack(alias score) du Joueur player en fonction du résultat du jeu précisé via l&#39;argument r..." alt="" coords="136,309,187,336"/>
+</map>

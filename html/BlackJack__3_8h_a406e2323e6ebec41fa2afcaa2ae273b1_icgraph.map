@@ -1,0 +1,5 @@
+<map id="JoueurTotalCartes" name="JoueurTotalCartes">
+<area shape="rect" id="node2" href="$BlackJack__3_8h.html#aba89e787b6e64f5db79c7b3b47b60ea2" title="Affiche la main du Joueur player. " alt="" coords="183,5,276,32"/>
+<area shape="rect" id="node3" href="$BlackJack__3_8h.html#a31f73f609d34ba0936c068c28e49f027" title="Fonction gérant la totalité du jeu. " alt="" coords="324,31,363,57"/>
+<area shape="rect" id="node4" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="411,31,461,57"/>
+</map>

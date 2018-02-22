@@ -1,0 +1,3 @@
+<map id="Joueur" name="Joueur">
+<area shape="rect" id="node2" href="$structCarte.html" title="Structure correspondant a une carte, définie par une couleur, une valeur et un nom. " alt="" coords="9,5,63,32"/>
+</map>
